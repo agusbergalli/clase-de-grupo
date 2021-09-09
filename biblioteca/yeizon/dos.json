@@ -1,0 +1,13 @@
+[
+    
+    {
+        "id": "2",
+        "titulo": "La tregua",
+        "isbn": "ISBN - 902 - 9234",
+        "editorial": "Editorial B",
+        "paginas": "300",
+        "precio":"$690",
+        "descripcion":"La tregua es una novela del escritor uruguayo Mario Benedetti (1920-2009), que narra la vida de Martín Santomé, un hombre viudo y cercano a jubilarse, que se enamora perdidamente de su compañera de trabajo. Esta novela fue escrita en 1959, y situada en Montevideo (Uruguay).",
+        "img":"../img/La tregua/1.jfif"
+    }
+]

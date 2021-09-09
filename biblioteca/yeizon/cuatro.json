@@ -1,0 +1,12 @@
+[
+    {
+        "id": "4",
+        "titulo": "Pequeña ala",
+        "isbn": "ISBN - 902 - 3999",
+        "editorial": "Editorial B",
+        "paginas": "550",
+        "precio":"$570",
+        "descripcion":"Con la sensibilidad e intuición que lo caracteriza, Berocay plantea temas imprescindibles y universales, con frescura, desinhibición y honestidad. Una trilogía fascinante sobre el amor, la amistad, los cambios y la lucha por alcanzar lo que soñamos.",
+        "img":"../img/Pequeña ala/1.jfif"
+    }
+]
